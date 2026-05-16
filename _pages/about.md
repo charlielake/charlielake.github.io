@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, University of Toronto Institute of Biomedical Engineering.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: charlie!.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Charlie, a 1st year PhD student to the University of Toronto, where my work will focus on designing and improving assistive and rehabilitative technologies for children living with disabilities.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My background is in biomedical engineering, and I'm driven by a deep interest in how we can better design technology with patients to ensure holistic care that goes beyond just physical rehabilitation. Alongside the actual engineering design, I'm also quite passionate about finding ways to support patient education, engagement, and dignity throughout the healthcare process.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I care deeply about engineering education as well, and find a lot of fulfillment in student-facing work, where I can more personally support students in their higher education journeys. At UBC, I was involved in educational research and curriculum design for a first-year course CPSC 121, where I led our hardware-focused labs. At UofT, I've helped teach APS 106/112, first year courses for Engineering students. Moving forward, I have a strong interest in exploring curriculum design, especially focusing on better integrating equity and inclusive design topics into engineering curriculums.
+
+If you want to learn more about my work, feel free to email me at [charlie.lake@mail.utoronto.ca](mailto:charlie.lake@mail.utoronto.ca) or add me on [LinkedIn](https://www.linkedin.com/in/charlie-lake/).
