@@ -1,27 +1,25 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Charlie Lake",
+    "label": "PhD Student, University of Toronto Institute of Biomedical Engineering.
+",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "charlie.lake@mail.utoronto.ca",
+    "summary": "A 1st year PhD student at the University of Toronto's Institute of Biomedical Engineering, designing and studying Brain-Computer Interfaces for children living with disabilities and engineering education!",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Toronto",
+      "countryCode": "Canada",
+      "region": "Ontario"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Institute for Biomedical Engineering, University of Toronto",
+      "position": "PhD Student",
+      "location": "Toronto, ON",
+      "startDate": "2025-09",
+      "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity", "Description 2."]
     },
