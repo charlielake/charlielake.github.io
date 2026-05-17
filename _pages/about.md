@@ -9,9 +9,9 @@ profile:
   image: charlie!.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    #<p>555 your office number</p>
+    #<p>123 your address street</p>
+    #<p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Charlie, a 1st year PhD student to the University of Toronto, where my work will focus on designing and improving assistive and rehabilitative technologies for children living with disabilities. Specifically, I study Brain-Computer Interfaces with Dr. Tom Chau's PRISM Lab, located at Holland Bloorview Kids Rehabilitation Hospital.
+Hi! I'm Charlie, a 1st year PhD student to the University of Toronto, where my work focuses on designing and improving assistive and rehabilitative technologies for children living with disabilities. Specifically, I study Brain-Computer Interfaces with Dr. Tom Chau's PRISM Lab, located at Holland Bloorview Kids Rehabilitation Hospital.
 
 My background is in biomedical engineering, and I'm driven by a deep interest in how we can better design technology with patients to ensure holistic care that goes beyond just physical rehabilitation. Alongside the actual engineering design, I'm also quite passionate about finding ways to support patient education, engagement, and dignity throughout the healthcare process.
 
