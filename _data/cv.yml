@@ -104,12 +104,74 @@ cv:
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
+      - title: Canada Graduate Scholarship - Masters (CGSM)
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "NSERC"
+        date: 2026
+        awarder: $27000 - NSERC
+	url: https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program#a1
+
+      - title: Kimel Family Graduate Student Scholarship in Pediatric Rehabilitation
+        authors:
+          - "Kimel Family"
+        date: 2025
+        awarder: $20000 - Kimel Family/Bloorview Research Institute
+	url: https://hollandbloorview.ca/research-education/bloorview-research-institute/train-us/graduate-student-scholarship-awards
+
+      - title: Peterborough K.M. HUNTER Charitable Foundation Graduate Awards
+        authors:
+          - "Peterborough K.M. HUNTER Charitable Foundation"
+        date: 2025
+        awarder: $12000 - Peterborough K.M. HUNTER Charitable Foundation/Temerty Faculty of Medicine
+
+      - title: Barbara & Frank Milligan Scholarship
+        authors:
+          - "Barbara & Frank Milligan"
+        date: 2025
+        awarder: $7100 - Institute of Biomedical Engineering
+
+      - title: Engineers & Geoscientists BC Achievement Award (EGBC)
+        authors:
+          - "EGBC"
+        date: 2024
+        awarder: $200 - EGBC
+
+      - title: University of British Columbia Trek Excellence Scholarship
+        authors:
+          - "UBC"
+        date: 2019, 2021, 2023
+        awarder: $1500 x 3 - UBC
+        summary: Awarded to top 5% GPA students in each faculty
+
+      - title: Charles & Jane Banks Scholarship
+        authors:
+          - "UBC"
+        date: 2023
+        awarder: $4500 - UBC
+
+      - title: Ward-Essof Scholarship
+        authors:
+          - "UBC"
+        date: 2023
+        awarder: $1700 - UBC
+
+      - title: UBC CPSC Undergraduate TA Award
+        authors:
+          - "UBC"
+        date: 2021, 2023
+        awarder: UBC
+
+      - title: NSERC Undergraduate Student Research Award (USRA)
+        authors:
+          - "NSERC"
+        date: 2021
+        awarder: $6000 - NSERC
+
+      - title: UBC J Fred Muir Memorial Scholarship in Science
+        authors:
+          - "UBC"
+        date: 2019
+        awarder: $350 - UBC
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
